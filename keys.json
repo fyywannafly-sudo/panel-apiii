@@ -1,0 +1,50 @@
+{
+  "getRoleTargetRoleId": null,
+  "keys": [
+    {
+      "key": "FYY-TEST-001",
+      "roleId": null,
+      "usedBy": "482045422932590594",
+      "hwidResets": 6,
+      "hwid": null,
+      "expiresAt": null,
+      "blacklisted": false
+    },
+    {
+      "key": "FYY-152-280-794",
+      "roleId": null,
+      "usedBy": "1291781839530365080",
+      "hwidResets": 4,
+      "hwid": null,
+      "expiresAt": null,
+      "blacklisted": false
+    },
+    {
+      "key": "FYY-705-435-587",
+      "roleId": null,
+      "usedBy": null,
+      "hwidResets": 0,
+      "hwid": null,
+      "expiresAt": null,
+      "blacklisted": false
+    },
+    {
+      "key": "FYY-519-714-739",
+      "roleId": null,
+      "usedBy": "1392375338612555877",
+      "hwidResets": 0,
+      "hwid": null,
+      "expiresAt": null,
+      "blacklisted": false
+    },
+    {
+      "key": "FYY-234-911-720",
+      "roleId": null,
+      "usedBy": "1181226247943110666",
+      "hwidResets": 1,
+      "hwid": null,
+      "expiresAt": null,
+      "blacklisted": false
+    }
+  ]
+}
