@@ -23,7 +23,7 @@ const fs = require('fs');
 // ================================
 
 // TODO: GANTI INI PAKAI PUNYA KAMU
-const TOKEN = 'MTQ0NTY4OTA5NTE1NzE5MDcyNw.GRUcw6.JCpYQIeAmiAZe5AasB3fnKBItGNaGp2Hb7LVUM';              // Token bot
+const TOKEN = 'MTQ0NTY4OTA5NTE1NzE5MDcyNw.GNRX16.kzHxOVVPWqooBOfihtR3qwHIpi5dW24PayU9N8';              // Token bot
 const CLIENT_ID = '1445689095157190727';    // Application ID (di Dev Portal)
 const GUILD_ID = '1420156740045111407';         // Server ID tempat bot dipakai
 const OWNER_ID = '482045422932590594';        // Discord ID kamu (owner utama)
@@ -1494,3 +1494,4 @@ client.on('interactionCreate', async (interaction) => {
 // ================================
 
 client.login(TOKEN);
+
